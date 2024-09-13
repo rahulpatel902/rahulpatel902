@@ -29,13 +29,17 @@ Connect with me via:
 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 
 ## My workspace<br/><br/>
 <img src="https://img.shields.io/badge/ASUS-%23000000.svg?&style=for-the-badge&logo=asus&logoColor=white"/> <img src="https://img.shields.io/badge/Windows%2011-%230079D1.svg?&style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux%20Ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/AMD%20Ryzen%205600H-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/SSD-512GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logo=ram&logoColor=white"/>
+
+
+[![](https://visitcount.itsvg.in/api?id=rahulpatel902&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
