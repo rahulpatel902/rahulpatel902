@@ -2,8 +2,8 @@
 
 <img width="50%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
 
-- **`The Code Sorcerer (Student/Developer)`**<br/>
-- **`Learing Mystic Arts (Web App Sorcery)`**
+**`The Code Sorcerer (Student/Developer)`**<br/>
+**`Learing Mystic Arts (Web App Sorcery)`**
 
 
 ```
