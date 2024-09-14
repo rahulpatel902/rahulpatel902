@@ -89,12 +89,24 @@ I'm **Rahul Patel**, an undergraduate student with a passion for web app develop
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 400px; height: 200px; object-fit: cover;"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true" alt="Streak Stats" style="width: 400px; height: 200px; object-fit: cover;"></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: auto;">
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 400px; height: 200px; object-fit: cover;"></td>
-    <td><img src="https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" alt="Contributor Stats" style="width: 400px; height: 200px; object-fit: cover;"></td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true" alt="Streak Stats" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats" style="width: 100%; height: auto;">
+    </td>
   </tr>
 </table>
 
