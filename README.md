@@ -10,11 +10,9 @@
  "Writing code is like performing magic; you turn abstract thoughts into tangible wonders." 
 ```
 
+I'm Rahul Patel, an undergraduate student with a passion for web app development. Currently, I'm pursuing a Bachelor's in Computer Applications. I love learning new things, building projects, and solving problems. I'm dedicated to studying every day to achieve my dream of becoming a software developer.
 
-
-I'm **Rahul Patel**, an undergraduate student with a passion for web app development. Currently i'm pursuing Bachelor's in Computer Applications, I love learning and trying new things, and of course, building stuff and solving problems. I’m dedicated to studying every day to achieve my dream of becoming an software developer.
-
-> Connect with me via:
+> *Connect with me via:*
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahulpatel7899) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mp902785@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-patel-6b3143220) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahulpatel902)
@@ -22,17 +20,16 @@ I'm **Rahul Patel**, an undergraduate student with a passion for web app develop
 
 
 ## More About Me:
-- 🔭 I'm pursuing Bachelor's in Computer Application
-- 🌱 I'm currently learning MERN Stack & DSA
-- 🌐 I speak Hindi, English (semi-competently) and i'm trying to learn Japanese & German.
+- 🔭 I'm currently pursuing Bachelor's in Computer Applications.
+- 🌱 I'm currently learning MERN Stack & Data Structures amd Algorithms.
+- 🌐 I speak Hindi, English (semi-competently) and am also trying to learn Japanese and German.
 - 💬 Ask me about: Programming, Web App Development, and Data Structures & Algorithms.
-- 🎮 Hobbies: Solve problems at LeetCode, watch anime, read some manga, play videogames, etc.
-- ✨ Fun fact: Dark mode is my favorite color
+- 🎮 Hobbies include solving problems on LeetCode, watching anime, reading manga, and playing video games.
+- ✨ Fun fact: Dark mode is my favorite "color."
+
 
 
 ## Language, Framework & Tools:
-
-
 
 <table>
   <tr>
@@ -40,7 +37,7 @@ I'm **Rahul Patel**, an undergraduate student with a passion for web app develop
     <th scope="col">Stack</th>
   </tr>
   <tr>
-    <th scope="row">Languages</th>
+    <th align="left" scope="row">Languages</th>
     <td>
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
       <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -58,7 +55,7 @@ I'm **Rahul Patel**, an undergraduate student with a passion for web app develop
     </td>
   </tr>
   <tr>
-    <th scope="row">Frameworks, Libraries & Server</th>
+    <th align="left" scope="row">Frameworks, Libraries & Server</th>
     <td>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router"/>
@@ -70,7 +67,7 @@ I'm **Rahul Patel**, an undergraduate student with a passion for web app develop
     </td>
   </tr>
   <tr>
-    <th scope="row">Databases, Cloud & Hosting </th>
+    <th align="left" scope="row">Databases, Cloud & Hosting </th>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -87,7 +84,7 @@ I'm **Rahul Patel**, an undergraduate student with a passion for web app develop
     </td>
   </tr>
   <tr>
-    <th scope="row">Software and Tools</th>
+    <th align="left" scope="row">Software and Tools</th>
     <td>
       <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
       <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
