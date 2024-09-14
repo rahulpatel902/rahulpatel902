@@ -140,7 +140,11 @@ I'm Rahul Patel, an undergraduate student with a passion for web app development
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&style=flat-square&logo=windows-terminal&logoColor=white)
 
 
- [![](https://visitcount.itsvg.in/api?id=rahulpatel902&icon=5&color=1)](https://visitcount.itsvg.in)
+  
 
 
-
+<div align="center">
+	<img src="https://visitcount.itsvg.in/api?id=rahulpatel902&icon=5&color=1" alt="Visit Count">
+<br /><br>
+<span><b><u>Thank you for the visit.</u></b></span>
+</div>
