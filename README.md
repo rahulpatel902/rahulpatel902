@@ -1,14 +1,6 @@
 ## 👋 Hi There! Welcome :) <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"/>
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 100%; text-align: center; padding: 0;">
-      <img src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800" alt="Sample Image" style="width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
-
-
+<img width="50%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
 
 **`The Code Sorcerer (Student/Developer)`**<br/>
 **`Learing Mystic Arts (Web App Sorcery)`**
@@ -74,6 +66,226 @@ I'm **Rahul Patel**, an undergraduate student with a passion for web app develop
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+<table>
+  <tr>
+    <td>&nbsp;</td>
+    <th scope="col">Stack</th>
+  </tr>
+  <tr>
+    <th scope="row">Programming Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Web Development</th>
+    <td>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router"/>
+      <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Server</th>
+    <td>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS"/>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Version Control</th>
+    <td>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Hosting & Deployment</th>
+    <td>
+      <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" alt="Heroku"/>
+      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+      <img src="https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white" alt="Github Pages"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Cloud Services</th>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Design & Video Editing</th>
+    <td>
+      <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
+      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
+      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
+      <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
+      <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">API Testing</th>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>&nbsp;</td>
+    <th scope="col">Stack</th>
+  </tr>
+  <tr>
+    <th scope="row">LANGUAGES</th>
+    <td>
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Hosting</th>
+    <td>
+      <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" alt="Heroku"/>
+      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+      <img src="https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white" alt="Github Pages"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">FRAMEWORKS</th>
+    <td>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router"/>
+      <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">PLATFORMS & LIBRARIES</th>
+    <td>
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
+      <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+      <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">SERVERS</th>
+    <td>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">DATABASES</th>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">DESIGN</th>
+    <td>
+      <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
+      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
+      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">CI/CD</th>
+    <td>
+      <!-- No CI/CD tools included in the provided list -->
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">VCS</th>
+    <td>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">OTHER</th>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>&nbsp;</td>
+    <th scope="col">Stack</th>
+  </tr>
+  <tr>
+    <th scope="row">Programming and Markup Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Frameworks and Libraries</th>
+    <td>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router"/>
+      <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Databases and Cloud Hosting</th>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Software and Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
+      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
+      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+  </tr>
+</table>
 
 
 ## My GitHub Stats:
