@@ -10,7 +10,7 @@
  "Writing code is like performing magic; you turn abstract thoughts into tangible wonders." 
 ```
 
-I'm Rahul Patel, an undergraduate student with a passion for web app development. Currently, I'm pursuing a Bachelor's in Computer Applications. I love learning new things, building projects, and solving problems. I'm dedicated to studying every day to achieve my dream of becoming a software developer.
+I'm Rahul Patel, an undergraduate student with a passion for web app development. Currently, I'm pursuing a Bachelor's degree in Computer Science. I enjoy learning new things, building projects, and solving problems. I'm dedicated to studying every day to achieve my dream of becoming a software developer
 
 > *Connect with me via:*
 
@@ -20,14 +20,12 @@ I'm Rahul Patel, an undergraduate student with a passion for web app development
 
 
 ## More About Me:
-- 🔭 I'm currently pursuing Bachelor's in Computer Applications.
-- 🌱 I'm currently learning MERN Stack & Data Structures and Algorithms.
-- 🌐 I speak Hindi, English (semi-competently) and am also trying to learn Japanese.
-- 💬 Ask me about: Programming, Web App Development, and Data Structures & Algorithms.
-- 🎮 Hobbies include solving problems on LeetCode, watching anime, reading manga, and playing video games.
-- ✨ Fun fact: Dark mode is my favorite "color."
-
-
+- 🔭 I'm a Bachelor's student in Computer Science.
+- 🌱 Currently learning MERN Stack and Data Structures & Algorithms.
+- 🌐 I speak: Hindi, English (semi-fluent) and am also learning Japanese.
+- 💬 Ask me about Programming, Web Development, Data Structures & Algorithms.
+- 🎮 Hobbies include solving problems on LeetCode, watching anime, reading manga, playing video games & drawing.
+- ✨ Fun fact: Dark mode is my go-to aesthetic!.
 
 ## Language, Framework & Tools:
 
