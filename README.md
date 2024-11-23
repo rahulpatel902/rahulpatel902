@@ -26,7 +26,7 @@ I'm Rahul Patel, an undergraduate student with a passion for web app development
 - 💬 Ask me about Programming, Web Development, Data Structures & Algorithms.
 - 🎮 Hobbies include solving problems on LeetCode, watching anime, reading manga, playing video games & drawing.
 - ✨ Fun fact: Dark mode is my go-to aesthetic!.
-
+<!--
 ## Language, Framework & Tools:
 
 <table>
@@ -97,7 +97,7 @@ I'm Rahul Patel, an undergraduate student with a passion for web app development
     </td>
   </tr>
 </table>
-
+-->
 
 
 ## My GitHub Stats:
