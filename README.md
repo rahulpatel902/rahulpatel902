@@ -122,7 +122,7 @@ I'm Rahul Patel, an undergraduate student with a passion for web app development
 <table>
   <tr>
      <td>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatel902&theme=midnight_purple" alt="GitHub Stats" style="width: 100%; height: 280px;">	
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatel902&theme=midnight_purple" alt="GitHub Stats" style="width: 1000px;">	
      </td>
   </tr>
 </table>
