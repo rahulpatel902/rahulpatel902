@@ -100,37 +100,28 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
 
 
 ## My GitHub Stats:
-<table align="center" >
-    <tr>
-        <td align="center">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatel902&theme=midnight_purple"
-                alt="GitHub Stats" style="width: 100%; ">
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true"
-                alt="Streak Stats" style="width: 100%;">
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"
-                alt="GitHub Stats" style="width: 100%;">
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-                alt="Top Languages" style="width: 100%;">
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true"
-                alt="Contributor Stats" style="width: 100%;">
-        </td>
-    </tr>
+<table>
+   <tr>
+     <td colspan="2">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatel902&theme=midnight_purple" alt="GitHub Stats" style="width: 1000px;">	
+     </td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true" alt="Streak Stats" style="width: 100%;">
+    </td>
+   <td>
+	<img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; ">
+   </td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; ">
+    </td>
+     <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats" style="width: 100%;">
+    </td>
+  </tr>
 </table>
 
 
