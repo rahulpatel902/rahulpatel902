@@ -1,6 +1,6 @@
 ## 👋 Hi There! Welcome :) <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"/>
 
-<img width="29%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
+<img width="50%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
 
 **`The Code Sorcerer (Student/Developer)`**<br/>
 **`Learing Mystic Arts (Web App Sorcery)`**
@@ -10,7 +10,7 @@
  "Writing code is like performing magic; you turn abstract thoughts into tangible wonders." 
 ```
 
-I'm Rahul Patel, an undergraduate student with a passion for web app development. Currently, I'm pursuing a Bachelor's degree in Computer Science. I enjoy learning new things, building projects, and solving problems. I'm dedicated to studying every day to achieve my dream of becoming a software developer
+I'm Rahul, an undergraduate student with a passion for web app development. Currently, I'm pursuing a Bachelor's degree in Computer Science. I enjoy learning new things, building projects, and solving problems. I'm dedicated to studying every day to achieve my dreams.
 
 > *Connect with me via:*
 
@@ -103,25 +103,22 @@ I'm Rahul Patel, an undergraduate student with a passion for web app development
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; ">
     </td>
    <td>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true" alt="Streak Stats" style="width: 100%; height: auto;">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true" alt="Streak Stats" style="width: 100%;">
    </td>
   </tr>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; height: auto;">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; ">
     </td>
      <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats" style="width: 100%; height: auto;">
+      <img src="https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats" style="width: 100%;">
     </td>
   </tr>
-</table>
-
-<table>
-  <tr>
-     <td>
+   <tr>
+     <td colspan="2">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatel902&theme=midnight_purple" alt="GitHub Stats" style="width: 1000px;">	
      </td>
   </tr>
