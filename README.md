@@ -138,7 +138,6 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&style=flat-square&logo=windows-terminal&logoColor=white)
 -->
 
-
  <br>
 
 <div align="center">
