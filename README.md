@@ -142,12 +142,10 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
  <br>
 
 <div align="center">
-	<!-- <img src="https://visitcount.itsvg.in/api?id=rahulpatel902&icon=5&color=1" alt="Visit Count"> -->
-	<img src="https://komarev.com/ghpvc/?username=rahulpatel902&color=blueviolet&style=flat-square&abbreviated=true" alt="Visit Count">
+	<img src="https://visitcount.itsvg.in/api?id=rahulpatel902&icon=5&color=6" alt="Visit Count">
 <br> <br>
 <span><b><u>Thank you for the visit.</u></b></span>
 </div>
 
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
