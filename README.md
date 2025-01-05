@@ -146,5 +146,3 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
 <span><b><u>Thank you for the visit.</u></b></span>
 </div>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
