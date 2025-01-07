@@ -103,23 +103,23 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
 <table>
    <tr>
      <td colspan="2">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatel902&theme=midnight_purple" alt="GitHub Stats" style="width: 1000px;">	
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatel902&theme=midnight_purple"  style="width: 1000px;">	
      </td>
   </tr>
   <tr>
     <td>
-		 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true" alt="Streak Stats" style="width: 100%;">
+		 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true"  style="width: 100%;">
     </td>
    <td>
-	<img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; ">
+	<img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%; ">
    </td>
   </tr>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; ">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  style="width: 100%; ">
     </td>
      <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats" style="width: 100%;">
+      <img src="https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true"  style="width: 100%;">
     </td>
   </tr>
 </table>
@@ -142,7 +142,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
 
 <div align="center">
 <!-- 	<img src="https://visitcount.itsvg.in/api?id=rahulpatel902&icon=5&color=6" alt="Visit Count"> -->
-	<img src="https://komarev.com/ghpvc/?username=rahulpatel902&color=blueviolet&style=flat-square&abbreviated=true" alt="Visit Count">
+	<img src="https://komarev.com/ghpvc/?username=rahulpatel902&color=blueviolet&style=flat-square&abbreviated=true">
 <br> <br>
 <span><b><u>Thank you for the visit.</u></b></span>
 </div>
