@@ -122,6 +122,11 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
       <img src="https://github-contributor-stats.vercel.app/api?username=rahulpatel902&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true"  style="width: 100%;">
     </td>
   </tr>
+  <tr>
+  <td colspan="2">
+	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpatel902&bg_color=000000&color=9745f5&line=9745f5&point=c7c6c6&area=true&hide_border=true&days=40">
+  </td>
+   </tr>
 </table>
 
 <!--
