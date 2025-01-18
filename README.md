@@ -113,7 +113,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
    <td>
 	<img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%; ">
    </td>
-  </tr>
+  </tr>  
   <tr>
     <td>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  style="width: 100%; ">
