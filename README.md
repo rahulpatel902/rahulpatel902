@@ -31,7 +31,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
 
 <table>
   <tr>
-    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
     <th scope="col">Stack</th>
   </tr>
   <tr>
