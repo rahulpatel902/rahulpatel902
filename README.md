@@ -11,7 +11,7 @@
 ```
 
 I'm Rahul, an undergraduate student with a passion for web app development. Currently, I'm pursuing a Bachelor's degree in Computer Science. I enjoy learning new things, building projects, and solving problems. I'm dedicated to studying every day to achieve my dreams. 
-
+ 
 > *Connect with me via:*
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahulcodes01) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mp902785@gmail.com)
