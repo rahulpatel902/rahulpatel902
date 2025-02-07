@@ -18,7 +18,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-patel-6b3143220) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahulpatel902)
  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_p902)
 
-
+ 
 ## More About Me:
 - 🔭 I'm a Bachelor's student in Computer Science.
 - 🌱 Currently learning MERN Stack and Data Structures & Algorithms.
