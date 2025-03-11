@@ -4,7 +4,7 @@
  
 **`The Code Sorcerer (Student/Developer)`**<br/>
 **`Learing Mystic Arts (Web App Sorcery)`**   
-  
+   
      
 ``` 
  "Writing code is like performing magic; you turn abstract thoughts into tangible wonders." 
