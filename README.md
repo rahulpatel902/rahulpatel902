@@ -1,5 +1,5 @@
 ## 👋 Hi There! Welcome :) <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"/>
-<!-- 
+
 <img width="50%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
  
 **`The Code Sorcerer (Student/Developer)`**<br/>
@@ -98,7 +98,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
   </tr>
 </table>
 
--->
+
 ## My GitHub Stats:
 <table>
    <tr>
@@ -129,7 +129,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
    </tr>
 </table>
 
-<!--
+
 ## My workspace
 ![ASUS](https://img.shields.io/badge/ASUS-%23000000.svg?&style=flat-square&logo=asus&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079D1.svg?&style=flat-square&logo=windows&logoColor=white)
@@ -141,7 +141,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
 ![Arc Browser](https://img.shields.io/badge/Arc%20Browser-%23000000.svg?&style=flat-square&logo=arc-browser&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&style=flat-square&logo=windows-terminal&logoColor=white)
--->
+
 
  <br>
 
