@@ -108,7 +108,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatel902&theme=midnight-purple&hide_border=true"  style="width: 100%;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=rahulpatel902&theme=midnight-purple&hide_border=true"  style="width: 100%;">
     </td>
    <td>
 	<img src="https://github-readme-stats.vercel.app/api?username=rahulpatel902&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%; ">
