@@ -24,7 +24,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
 - 🌱 Currently learning MERN Stack and Data Structures & Algorithms.
 - 🌐 I speak: Hindi, English (semi-fluent).
 - 💬 Ask me about Programming, Web Development, Data Structures & Algorithms.
-- 🎮 Hobbies include solving problems on LeetCode, watching anime, reading manga.
+- 🎮 Hobbies include solving problems, watching anime, reading manga.
 - ✨ Fun fact: Dark mode is my go-to aesthetic!.
   
 ## Language, Framework & Tools:
