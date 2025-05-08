@@ -10,15 +10,17 @@
  "Writing code is like performing magic; you turn abstract thoughts into tangible wonders." 
 ```
 
-I'm Rahul, an undergraduate student with a passion for web app development. Currently, I'm pursuing a Bachelor's degree in Computer Science. I enjoy learning new things, building projects, and solving problems. I'm dedicated to studying every day to achieve my dreams. 
- 
+I'm Rahul, an undergraduate student with a passion for web app development. Currently, I'm pursuing a Bachelor's degree in Computer Science. I enjoy learning new things, building projects, and solving problems.
+<!--
+I'm dedicated to studying every day to achieve my dreams. 
+ -->
 > *Connect with me via:*
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahulcodes01) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mp902785@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-patel-6b3143220) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahulpatel902)
  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_p902)
 
- 
+ <!--
 ## More About Me:
 - 🔭 I'm a Bachelor's student in Computer Science.
 - 🌱 Currently learning MERN Stack and Data Structures & Algorithms.
@@ -26,7 +28,7 @@ I'm Rahul, an undergraduate student with a passion for web app development. Curr
 - 💬 Ask me about Programming, Web Development, Data Structures & Algorithms.
 - 🎮 Hobbies include solving problems, watching anime, reading manga.
 - ✨ Fun fact: Dark mode is my go-to aesthetic!.
-  
+  -->
 ## Language, Framework & Tools:
 
 <table>
