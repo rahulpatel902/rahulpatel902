@@ -28,7 +28,7 @@ I'm dedicated to studying every day to achieve my dreams.
 - 💬 Ask me about Programming, Web Development, Data Structures & Algorithms.
 - 🎮 Hobbies include solving problems, watching anime, reading manga.
 - ✨ Fun fact: Dark mode is my go-to aesthetic!.
-  -->
+ 
 ## Language, Framework & Tools:
 
 <table>
@@ -99,7 +99,7 @@ I'm dedicated to studying every day to achieve my dreams.
     </td>
   </tr>
 </table>
-
+ -->
 
 ## My GitHub Stats:
 <table>
