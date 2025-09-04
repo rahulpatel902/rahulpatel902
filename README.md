@@ -1,7 +1,7 @@
 ## 👋 Hi There! Welcome :) <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"/>
-
+  <!--
 <img width="50%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
- 
+
 **`The Code Sorcerer (Student/Developer)`**<br/>
 **`Learing Mystic Arts (Web App Sorcery)`**   
       
@@ -11,15 +11,17 @@
 ```
 
 I'm Rahul, an undergraduate student with a passion for web app development. Currently, I'm pursuing a Bachelor's degree in Computer Science. I enjoy learning new things, building projects, and solving problems.
+  -->
 <!--
 I'm dedicated to studying every day to achieve my dreams. 
  -->
+  <!--
 > *Connect with me via:*
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahulcodes01) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mp902785@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-patel-6b3143220) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahulpatel902)
  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_p902)
-
+ -->
  <!--
 ## More About Me:
 - 🔭 I'm a Bachelor's student in Computer Science.
